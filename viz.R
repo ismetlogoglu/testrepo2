@@ -6,3 +6,9 @@ penguins %>%
   geom_histogram()
 
 #Hi there!
+
+head(mtcars)
+
+
+plot(mtcars$mpg, mtcars$cyl)
+
